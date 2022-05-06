@@ -1,0 +1,15 @@
+Informe diario de personas antendidas por ventanilla: 
+
+Ventanilla nº1. Atendida por Agente especial Harrison
+Se ha atendido hoy :
+
+
+Ventanilla nº2. Atendida por Agente especial Roger
+Se ha atendido hoy :
+
+
+Ventanilla nº3. Atendida por Agente especial Smith
+Se ha atendido hoy :
+
+
+

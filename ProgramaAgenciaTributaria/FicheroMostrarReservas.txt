@@ -1,0 +1,5 @@
+                                     Fichero reservas de citas
+
+        Fecha       Hora         DNI             Nombre            Dia reservado     Hora reservada     
+
+

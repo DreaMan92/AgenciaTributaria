@@ -1,0 +1,20 @@
+                                     Fichero reservas de citas
+
+        Fecha       Hora         DNI             Nombre            Dia reservado     Hora reservada     
+
+     12/04/2022     11:04     85669808I      Manuel Gatillo         4 jul 2022             18:00     
+     12/04/2022     11:05     76648723T      Pepelu Orogoien        14 jul 2022            09:15     
+     12/04/2022     11:12     68846732H      Manuela Mella          26 jul 2022            12:00     
+     12/04/2022     23:20     74463728K      Federico Garcia        30 jul 2022            19:30     
+     13/04/2022     14:07     71154706C      miguel alvarez         14 sept 2022           20:00     
+     13/04/2022     14:12     76584874F      gonzalo alvarez        23 sept 2022           12:00     
+     13/04/2022     14:14     89403927I      Manola del Pino        30 sept 2022           12:30     
+     13/04/2022     14:28     89674523F      Manolo Cadenas         30 sept 2022           09:15     
+     13/04/2022     14:37     90483710P      Simon Dice             18 mar 2022            19:30     
+     13/04/2022     17:19     90076743J      Estrella Reyes         24 sept 2022           17:45     
+     13/04/2022     17:21     90875632E      Victoria Abril         21 sept 2022           11:45     
+     25/04/2022     12:35     78965498S      Manuel Gonzalez        9 may 2022             09:00     
+     25/04/2022     12:39     65478932F      Samuel Feijo           14 jul 2022            12:30     
+     05/05/2022     11:20     67859021G      Gonzalo Alvarez        22 jul 2022            13:45     
+     06/05/2022     14:45     71154706C      Miguel Alvarez         15 jun 2022            13:30     
+

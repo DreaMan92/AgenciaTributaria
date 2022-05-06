@@ -1,0 +1,81 @@
+Informe diario de personas antendidas por ventanilla: 
+
+Ventanilla n∫1. Atendida por Agente especial Harrison
+Se ha atendido hoy :
+
+Nombre: Monica Senclaire
+Con DNI: 90873256N
+Fecha de hoy: 05/05/2022 a las 20:44
+Prioridad: uno
+Atendido a las 20:44
+
+Nombre: Simon Rodriguez
+Con DNI: 76554837Y
+Fecha de hoy: 05/05/2022 a las 20:44
+Prioridad: dos
+Atendido a las 20:44
+
+Nombre: Sonia Alvarez
+Con DNI: 74425478L
+Fecha de hoy: 05/05/2022 a las 20:44
+Prioridad: dos
+Atendido a las 20:44
+
+Nombre: Nicolas Ruiz
+Con DNI: 72436123I
+Fecha de hoy: 05/05/2022 a las 20:44
+Prioridad: tres
+Atendido a las 20:44
+
+Nombre: Manuel Hidalgo
+Con DNI: 89762145K
+Fecha de hoy: 05/05/2022 a las 20:44
+Prioridad: dos
+Atendido a las 20:44
+
+
+Ventanilla n∫2. Atendida por Agente especial Roger
+Se ha atendido hoy :
+
+Nombre: Diego Arturo Nu√±ez
+Con DNI: 67836521F
+Fecha de hoy: 05/05/2022 a las 20:44
+Prioridad: uno
+Atendido a las 20:44
+
+Nombre: Aitor Menta
+Con DNI: 34562171O
+Fecha de hoy: 05/05/2022 a las 20:44
+Prioridad: tres
+Atendido a las 20:44
+
+Nombre: Ricardo Posadas
+Con DNI: 67738290L
+Fecha de hoy: 05/05/2022 a las 20:44
+Prioridad: tres
+Atendido a las 20:44
+
+
+Ventanilla n∫3. Atendida por Agente especial Smith
+Se ha atendido hoy :
+
+Nombre: Eustaquia Millan
+Con DNI: 56743212G
+Fecha de hoy: 05/05/2022 a las 20:44
+Prioridad: uno
+Atendido a las 20:44
+
+Nombre: Juanmari Irugoien
+Con DNI: 88324514F
+Fecha de hoy: 05/05/2022 a las 20:44
+Prioridad: tres
+Atendido a las 20:44
+
+Nombre: Victor Aurregui
+Con DNI: 76547321J
+Fecha de hoy: 05/05/2022 a las 20:44
+Prioridad: tres
+Atendido a las 20:44
+
+
+
