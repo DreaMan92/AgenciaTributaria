@@ -14,9 +14,7 @@ public class AbolaMovimiento extends JComponent{
 	private APanelMovimiento panel;
 	Color unColor;
 	private final int DIAMETER = 30;
-	int x = 0;
 	int y = 355;
-	int xa = 1;
 	int ya = 1;
 
 	//Constructor.
@@ -30,34 +28,28 @@ public class AbolaMovimiento extends JComponent{
 	}
 	//metodo que mueve la bola y controla colision.
 	void move(int num) {
-		if (x + xa < 0)
-			xa = 1;
-		if (x + xa > panel.getWidth() - DIAMETER)
-			xa = -1;
 		if (y + ya < 0)
 			ya = 1;
 		if (y + ya > panel.getHeight() - DIAMETER)
 			ya = -1;
-		if (collision()){
-			if(num==1) {
-				y=panel.getHeight()-280;
+		if (collision()) {
+			if (num == 1) {
+				y = panel.getHeight() - 280;
 				panel.vent.Ocupado();
-				SalaDeEspera.noSalir1=false;
+				SalaDeEspera.noSalir1 = false;
 
-			}else if(num == 2) {
-				y=panel.getHeight()-280;
+			} else if (num == 2) {
+				y = panel.getHeight() - 280;
 				panel.vent.Ocupado();
-				SalaDeEspera.noSalir2=false;
+				SalaDeEspera.noSalir2 = false;
 
-			}else if (num == 3) {
-				y=panel.getHeight()-280;
+			} else if (num == 3) {
+				y = panel.getHeight() - 280;
 				panel.vent.Ocupado();
-				SalaDeEspera.noSalir3=false;
+				SalaDeEspera.noSalir3 = false;
 
 			}
-						
 		}
-		x = x + xa;
 		y = y + ya;
 	}
 
