@@ -59,7 +59,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/Gestor1.png) 
+![](imagenes/Gestor1.png) 
 <br>
 
 </center>
@@ -74,7 +74,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/Gestor2.png) 
+![](imagenes/Gestor2.png) 
 <br>
 
 </center>
@@ -89,7 +89,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/PuestoDeInformacion.png) 
+![](imagenes/PuestoDeInformacion.png) 
 <br>
 
 </center>
@@ -105,7 +105,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/AnimacionVentanillas.png) 
+![](imagenes/AnimacionVentanillas.png) 
 <br>
 
 </center>
@@ -131,7 +131,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/Reserva1.png) 
+![](imagenes/Reserva1.png) 
 <br>
 
 </center>
@@ -141,7 +141,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/Reserva2.png)
+![](imagenes/Reserva2.png)
 <br>
  
 </center>
@@ -153,7 +153,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/InformeReservas.png) 
+![](imagenes/InformeReservas.png) 
 <br>
 
 </center>
@@ -181,7 +181,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/ejecucionPuestoInfo1.png) 
+![](imagenes/ejecucionPuestoInfo1.png) 
 <br>
 
 </center>
@@ -199,7 +199,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/ejecucionPuestoInfo2png.png) 
+![](imagenes/ejecucionPuestoInfo2png.png) 
 <br>
 
 </center>
@@ -214,7 +214,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/ejecucionPuestoInfo3.png) 
+![](imagenes/ejecucionPuestoInfo3.png) 
 <br>
 
 </center>
@@ -231,7 +231,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/ejecucionPuestoInfo4.png) 
+![](imagenes/ejecucionPuestoInfo4.png) 
 <br>
 
 </center>
@@ -243,7 +243,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/ejecucionPuestoInfo5.png) 
+![](imagenes/ejecucionPuestoInfo5.png) 
 <br>
 
 </center>
@@ -259,7 +259,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/ejecucionPuestoInfo6png.png) 
+![](imagenes/ejecucionPuestoInfo6png.png) 
 <br>
 
 </center>
@@ -274,7 +274,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/ejecucionPuestoInfo7.png) 
+![](imagenes/ejecucionPuestoInfo7.png) 
 <br>
 
 </center>
@@ -289,7 +289,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/informaVentnaillas.png) 
+![](imagenes/informaVentnaillas.png) 
 <br>
 
 </center>
