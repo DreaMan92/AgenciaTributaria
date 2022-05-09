@@ -23,7 +23,7 @@ Como resultado he obtenido:
 
 <br>
 
-![](Imagenes/Clases.png) 
+![](Imagenes/Clases.PNG) 
 <br>
 
 </center>
